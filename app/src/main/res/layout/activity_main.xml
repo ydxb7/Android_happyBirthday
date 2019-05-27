@@ -33,6 +33,6 @@
         android:textColor="@android:color/white"
         android:fontFamily="sans-serif-light"
         android:id="@+id/from" />
-    
+
 
 </RelativeLayout>
